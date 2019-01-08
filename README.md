@@ -22,9 +22,7 @@ dataset_facial_expression = pd.read_csv("/content/gdrive/My Drive/fer2013.csv")
 the previous procedure should apply in the dataset **facial key points detection**
 ```
 df = pd.read_csv('/content/gdrive/My Drive/Colab Notebooks/training.csv')
-test = df[6000:]
-df=df[:6000]
-test.shape
+
 ```
 
 
